@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|exo:100,200,300,400,500,600,700');
 
 body {
- background-color: #2b78e4;    /* Royal Blue */  
+ background-color: #5bc0eb;    /* Blue Jeans */  
       line-height: normal;
 }
 
@@ -9,7 +9,7 @@ body {
 /* Footer                                                         */ 
 /*----------------------------------------------------------------*/
 footer {
- background-color: #525252;    /* Gray */  
+ background-color: #747e8f;    /*Slate Grey */  
        min-height: 60px;
 }
 
@@ -19,27 +19,27 @@ footer {
 }
 
 .list-band-social-link {
-   color: #ffff00;  /* Yellow */
- padding: 20px;
+   color: #f6f942;  /* Maximum Yellow */
+ padding: 10px;
 }
 
 /*----------------------------------------------------------------*/
 /* Navigation Menu                                                */ 
 /*----------------------------------------------------------------*/
 .ui-menu-color-home {
- background-color: #e67e22;    /* Tahiti Gold */ 
+ background-color: #fa7921;    /* Princeton Orange */ 
 }
 
 .ui-menu-color-contact {
- background-color: #009e0f;    /* Strong Green */ 
+ background-color: #6fa032;    /* Palm Leaf */ 
 }
 
 .ui-menu-color-discography {
- background-color: #2b78e4;    /* Royal Blue */  
+ background-color: #005b87;    /* Sea Blue */  
 }
 
 .ui-menu-color-videology {
- background-color: #525252;    /* Gray */  
+ background-color: #747e8f;    /*Slate Grey */           
 }
 
 #nav {
@@ -57,7 +57,7 @@ footer {
 }
 
 .hvr-sweep-to-bottom {
-           color: #ffff00;   /* Yellow */
+           color: #f6f942;  /* Maximum Yellow */
      padding-top:20px; 
       text-align: center;
  text-decoration: none;
@@ -78,7 +78,7 @@ header {
 .welcome-title {
      font-family: "Roboto", sans-serif;
      font-weight: bold;
-           color: #ffff00;   /* Yellow */
+           color: #f6f942;  /* Maximum Yellow */
  text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ header {
 
 /* clock font icon */
 .fa-clock-o { 
- color: #ffff00;   /* Yellow */
+ color: #f6f942;  /* Maximum Yellow */
 } 
 
 .biography-heading {
@@ -111,9 +111,12 @@ header {
 }
 
 .biography-text {
- font-family: "Verdana", sans-serif;
-   font-size: 14px;
-  text-align: left;
+   font-family: "Verdana", sans-serif;
+     font-size: 14px;
+   line-height: normal;
+   padding-top: 20px;
+ padding-right: 0;
+    text-align: left;
 }
 
 /*----------------------------------------------------------------*/
@@ -122,7 +125,7 @@ header {
 
 /* info font icon */
 .fa-info { 
- color: #ffff00;   /* Yellow */
+ color: #f6f942;  /* Maximum Yellow */
 } 
 
 .band-heading {

@@ -38,5 +38,15 @@ All changes commited to Git, Then when complete the website was pushed to GitHub
 
 ### Acknowledgments
 
-* bla
+`Color Scheme` - https://coolors.co
+
+#5bc0eb - Blue Jeans
+
+#747e8f - Slate Grey 
+
+#f6f942 - Maximum Yellow 
+
+#fa7921 - Princeton Orange
+ 
+#6fa032 - Palm Leaf 
 
