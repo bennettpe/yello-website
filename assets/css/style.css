@@ -26,53 +26,60 @@ footer {
 /*----------------------------------------------------------------*/
 /* Navigation Menu                                                */ 
 /*----------------------------------------------------------------*/
-.ui-menu-color-home {
+.nav-menu-color-home {
  background-color: #fa7921;    /* Princeton Orange */ 
 }
 
-.ui-menu-color-contact {
+.nav-menu-color-contact {
  background-color: #6fa032;    /* Palm Leaf */ 
 }
 
-.ui-menu-color-discography {
+.nav-menu-color-discography {
  background-color: #005b87;    /* Sea Blue */  
 }
 
-.ui-menu-color-videology {
+.nav-menu-color-videology {
  background-color: #747e8f;    /*Slate Grey */           
-}
-
-#nav {
- margin: 0;
-}
-
-#nav li {
- padding: 0;
 }
 
 .menuitem {
       font-family: "Verdana", sans-serif;
        min-height: 60px;
        text-align: center;
+  text-decoration: none;
 }
 
-.hvr-sweep-to-bottom {
+.menuitem a {
            color: #f6f942;  /* Maximum Yellow */
-     padding-top:20px; 
-      text-align: center;
- text-decoration: none;
+         height: 60px;
+           width: 100%;
+ text-decoration: none; 
 }
 
+.menuitem a i {
+       color: #f6f942;  /* Maximum Yellow */
+     display: block;
+ padding-top: 5px; 
+}
+
+.hvr-sweep-to-bottom:before {
+     background: rgba(0,0,0,0.2);
+} 
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    padding: 0;
+}
 
 /*----------------------------------------------------------------*/
 /* Heading (Welcome)                                              */ 
 /*----------------------------------------------------------------*/
-header {
- margin: 0;
-}
-
 .welcome-heading {
       text-align: center;
+ text-decoration: none;
 }
 
 .welcome-title {
@@ -80,7 +87,7 @@ header {
      font-weight: bold;
            color: #f6f942;  /* Maximum Yellow */
  text-decoration: none;
-}
+} 
 
 .photo-top {
           background: url("../images/Website/Yello-photo-merged.jpg");
@@ -97,10 +104,10 @@ header {
 /*----------------------------------------------------------------*/
 /* Heading (Biography)                                            */ 
 /*----------------------------------------------------------------*/
-
 /* clock font icon */
 .fa-clock-o { 
- color: #f6f942;  /* Maximum Yellow */
+           color: #f6f942;  /* Maximum Yellow */
+ text-decoration: none;
 } 
 
 .biography-heading {
@@ -122,10 +129,10 @@ header {
 /*----------------------------------------------------------------*/
 /*  Heading (Band Infomation)                                     */ 
 /*----------------------------------------------------------------*/
-
 /* info font icon */
 .fa-info { 
- color: #f6f942;  /* Maximum Yellow */
+           color: #f6f942;  /* Maximum Yellow */
+ text-decoration: none;
 } 
 
 .band-heading {
