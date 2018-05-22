@@ -1,0 +1,19 @@
+/*----------------------------------------------------------------*/
+/* Heading Images                                                 */ 
+/*----------------------------------------------------------------*/
+.image-column {
+ float: left;
+ width: 33.33%;
+}
+
+img {
+ height: auto;
+  width: 100%; 
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+ content: "";
+   clear: both;
+ display: table;
+}

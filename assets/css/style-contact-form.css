@@ -1,0 +1,52 @@
+/*----------------------------------------------------------------*/
+/* Css for Contact Form                                           */ 
+/*----------------------------------------------------------------*/
+form {
+        /* border: 3px solid #f6f942; /* Maximum Yellow */
+   font-family: "Verdana", sans-serif;
+     font-size: 14px;
+        margin: 0 auto; 
+       padding: 30px;
+         width: 90%;
+}
+      
+form div + div {
+ margin-top: 1em; 
+}
+      
+label {
+    display: inline-block; 
+ text-align: left;
+      width: 90px;
+}
+      
+input, textarea {
+      border: 3px solid #747e8f;  /*Slate Grey */
+  box-sizing: border-box; 
+ font-family: "Verdana", sans-serif;
+       width: 90%; 
+}
+      
+input:focus, textarea:focus {
+ border-color: #f6f942;  /* Maximum Yellow */    
+}
+      
+textarea {
+         height: 5em;
+ vertical-align: top;         
+}
+      
+button {
+ background-color: #6fa032;  /* Palm Leaf */ 
+            color: white;
+}
+
+.band-heading { 
+       font-size: 22px;
+      margin-top: 1em;
+}
+
+a {
+           color: #f6f942;  /* Maximum Yellow */    
+ text-decoration: none;
+}

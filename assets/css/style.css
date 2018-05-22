@@ -5,6 +5,12 @@ body {
       line-height: normal;
 }
 
+/* awesome font icon */
+.fa { 
+           color: #f6f942;  /* Maximum Yellow */
+ text-decoration: none;
+} 
+
 /*----------------------------------------------------------------*/
 /* Footer                                                         */ 
 /*----------------------------------------------------------------*/
@@ -104,12 +110,6 @@ footer {
 /*----------------------------------------------------------------*/
 /* Heading (Biography)                                            */ 
 /*----------------------------------------------------------------*/
-/* clock font icon */
-.fa-clock-o { 
-           color: #f6f942;  /* Maximum Yellow */
- text-decoration: none;
-} 
-
 .biography-heading {
       font-family: "Verdana", sans-serif;
         font-size: 36px;
@@ -129,12 +129,6 @@ footer {
 /*----------------------------------------------------------------*/
 /*  Heading (Band Infomation)                                     */ 
 /*----------------------------------------------------------------*/
-/* info font icon */
-.fa-info { 
-           color: #f6f942;  /* Maximum Yellow */
- text-decoration: none;
-} 
-
 .band-heading {
      font-family: "Verdana", sans-serif;
        font-size: 36px;
@@ -148,3 +142,18 @@ footer {
  padding-top: 20px;
   text-align: left;
 }
+
+/*----------------------------------------------------------------*/
+/* Heading (Welcome)                                              */ 
+/*----------------------------------------------------------------*/
+.welcome-heading {
+      text-align: center;
+ text-decoration: none;
+}
+
+.welcome-title {
+     font-family: "Roboto", sans-serif;
+     font-weight: bold;
+           color: #f6f942;  /* Maximum Yellow */
+ text-decoration: none;
+} 
