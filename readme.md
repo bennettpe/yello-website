@@ -9,8 +9,8 @@ As well as showcasing their music and publicise their availability to perform at
 
 ### Deployment of Website
 
-A Wireframe Mock-up has been created using *Balsamiq* 
-Please see YELLO_Website_Mockup.pdf
+A Wireframe Mock-up has been created using *Balsamiq*<br/> 
+Please see **_YELLO_Website_Mockup.pdf_** [Click Here](https://ide.c9.io/bennettpe/yello-website/YELLO_Website_Mockup.pdf)
 
 The YELLO website was developed in AWS Cloud9 workspace using a mobile first approach.   
 To test this approach Google Chrome DevTools '**device mode**' was used for the following devices.
@@ -34,16 +34,28 @@ All changes commited to Git, Then when complete the website was pushed to GitHub
 
 ### Authors
 
-* Paul Bennett
+* Paul Edward Bennett
 
 ### Acknowledgments
 
 `Color Scheme` - https://coolors.co
 
 #5bc0eb - Blue Jeans
-#747e8f - Slate Grey 
-#f6f942 - Maximum Yellow 
+
+#747e8f - Slate Grey
+
+#f6f942 - Maximum Yellow
+
 #fa7921 - Princeton Orange
+
 #6fa032 - Palm Leaf 
 
-`Music database & Marketplace` - https://www.discogs.com
+`Music Database & Marketplace` - https://www.discogs.com
+
+`Bands Facebook Link` - https://en-gb.facebook.com/yello.ch/
+
+`Bands Instagram Link` - https://www.instagram.com/yello_official/
+
+`Bands Twitter Link` - https://twitter.com/yello_band?lang=en
+
+`Bands YouTube Link` - https://www.youtube.com/results?search_query=yello
