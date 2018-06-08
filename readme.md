@@ -10,7 +10,7 @@ As well as showcasing their music and publicise their availability to perform at
 ### Deployment of Website
 
 A Wireframe Mock-up has been created using *Balsamiq*<br/> 
-Please see **_YELLO_Website_Mockup.pdf_** [Click Here](https://ide.c9.io/bennettpe/yello-website/YELLO_Website_Mockup.pdf)
+Please see **YELLO_Website_Mockup.pdf**
 
 The YELLO website was developed in AWS Cloud9 workspace using a mobile first approach.   
 To test this approach Google Chrome DevTools '**device mode**' was used for the following devices.
@@ -60,4 +60,4 @@ All changes commited to Git, Then when complete the website was pushed to GitHub
 
 `Bands YouTube Link` - https://www.youtube.com/results?search_query=yello
 
-'Video Player' - 
+`Video Player Link` - https://vimeo.com/
