@@ -59,3 +59,5 @@ All changes commited to Git, Then when complete the website was pushed to GitHub
 `Bands Twitter Link` - https://twitter.com/yello_band?lang=en
 
 `Bands YouTube Link` - https://www.youtube.com/results?search_query=yello
+
+'Video Player' - 
